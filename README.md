@@ -18,8 +18,7 @@ This project simulates advanced Linux container escape attacks (via `chroot`, `m
 
 ## 🖥️ Architecture Diagram
 
-![Architecture](architecture/diagram.png)
-
+![image](https://github.com/user-attachments/assets/5d434e75-d774-46ac-bc6e-276157f0c06a)
 
 ## 🚀 How to Run
 
